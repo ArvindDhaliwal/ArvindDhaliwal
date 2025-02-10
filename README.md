@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Arvind Dhaliwal! 👋  
 
-<!--
-**ArvindDhaliwal/ArvindDhaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering** student at the **University of Guelph** passionate about **software development, machine learning, and embedded systems**.  
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On  
+- **Software Development:** Building full-stack applications with React, Node.js, and SQL  
+- **Machine Learning & AI:** Working with LLMs (BERT, GPT), transformers, decision trees, regression models, and neural networks for NLP, data analysis, and automation
+- **Embedded Systems:** Developing firmware for microcontrollers, FPGA design, and real-time processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack  
+- **Languages:** Python, C, C++, Java, TypeScript, JavaScript, SQL, VHDL, Verilog, MATLAB, Shell Script  
+- **Frameworks & Tools:** TensorFlow, PyTorch, Scikit-Learn, Hugging Face, React, Node.js, MongoDB  
+- **Dev Tools:** Git, Docker, AWS, Azure, Jupyter Notebook, SolidWorks  
