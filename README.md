@@ -10,4 +10,4 @@ I'm a **Computer Engineering** student at the **University of Guelph** passionat
 ### 🔧 Tech Stack  
 - **Languages:** Python, C, C++, Java, TypeScript, JavaScript, SQL, VHDL, Verilog, MATLAB, Shell Script  
 - **Frameworks & Tools:** TensorFlow, PyTorch, Scikit-Learn, Hugging Face, React, Node.js, MongoDB  
-- **Dev Tools:** Git, Docker, AWS, Azure, Jupyter Notebook, SolidWorks  
+- **Dev Tools:** Git, Docker, AWS, Azure, Microsoft Power BI Jupyter Notebook, SolidWorks  
